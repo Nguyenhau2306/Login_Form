@@ -76,6 +76,9 @@ input:valid ~ label{
     display: flex;
     justify-content: space-between;
 }
+.forget a{
+    color: black;
+}
 .forget label input{
     margin-right: 3px;
 }
@@ -100,7 +103,7 @@ button{
 }
 .register{
     font-size: 0.9em;
-    color:#7d0be7;
+    color:#0d0b0f;
     text-align: center;
     margin: 25px 0 10px;
 }
